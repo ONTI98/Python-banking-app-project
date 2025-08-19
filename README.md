@@ -6,7 +6,7 @@ All transactions will be recorded in a bank statememnt text file.
 ## Starting the application
 
 I have included the 'bank_statement.tx' file as a template.This is how your transcation will be laid out.
-In order to zero the inital bank balance, You need to delete the 'bank_statement.txt file'. 
+In order to zero the inital bank balance, You need to delete the 'bank_statement.txt' file. 
 
 # Rerun the app
 After rerunning the app, You will be prompted to create a new bank balance.
