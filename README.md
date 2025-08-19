@@ -16,6 +16,6 @@ You can perform a deposit or withdrawal after the initial bank account setup.
 Press "exit" directly after setting up the initial amount.
 This is the amount that will be recorded to the bank statement.
 
-## exiting the app
+## Exiting the app
 
 In order to exit the application, type 'exit' in the terminal.
