@@ -1,0 +1,35 @@
+Deposit: 	 1500 	 Balance: 9000Withdrawal: 	 7500 	 Balance: 1500
+Deposit: 	 58412 	 Balance: 59912Deposit: 	 25 	 Balance: 59937Withdrawal: 	 45812 	 Balance: 14125
+Deposit: 	 100 	 Balance: 14225
+Deposit: 	 5845 	 Balance: 20070Withdrawal: 	 200 	 Balance: 19870
+Withdrawal: 	 19800 	 Balance: 70
+Deposit: 	 30 	 Balance: 100Deposit: 	 500 	 Balance: 600
+Withdrawal: 	 25 	 Balance: 575
+Deposit: 	 500 	 Balance: 1075
+Withdrawal: 	 10 	 Balance: 1065
+Deposit: 	 2000 	 Balance: 3065
+Withdrawal  : 	 200 	 Balance: 2865
+Deposit     : 	 500 	 Balance: 3365Deposit: 	 25000 	 Balance: 28365
+Withdrawal: 	 500 	 Balance: 27865
+Deposit:	4500	Balance: 32365
+Withdrawal:	500	    Balance: 31865
+Deposit:	5000	Balance: 36865
+Withdrawal:	1245	Balance: 35620
+Deposit:	100	Balance: 35720
+Withdrawal:	5400	Balance: 30320
+Deposit		:	1500	Balance: 31820
+Withdrawal	:	800	    Balance: 31020
+Deposit		:	1240	Balance: 32260
+Withdrawal	:	780		Balance: 31480
+Deposit		:	300	Balance: 31780
+Withdrawal	:	250		Balance: 31530
+
+Withdrawal	:	250		Balance: 31280
+
+Withdrawal	:	154		Balance: 31126
+Deposit		:	10	    Balance: 31136
+Deposit		:	750	    Balance: 31886
+Withdrawal	:	750		Balance: 31136
+Deposit		:	850	    Balance: 31986
+Deposit		:	8541	Balance: 40527
+Deposit		:	10	    Balance: 40537
