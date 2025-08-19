@@ -1,6 +1,6 @@
 ## Banking App
 
-This banking app is class based and contains a withdrawal, get balance and deposit methods
+This banking app is class based and contains a withdrawal, get balance and deposit methods.
 All transactions will be recorded in a bank statememnt text file.
 
 ## Starting the application
